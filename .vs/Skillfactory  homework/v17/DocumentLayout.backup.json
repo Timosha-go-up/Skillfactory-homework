@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ohago\\source\\repos\\Skillfactory  homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80BBDB9A-3466-41C0-9540-C523054D963D}|5.6. Final project\\5.6. Final project.csproj|c:\\users\\ohago\\source\\repos\\skillfactory  homework\\5.6. final project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80BBDB9A-3466-41C0-9540-C523054D963D}|5.6. Final project\\5.6. Final project.csproj|solutionrelative:5.6. final project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F0434F4-2683-4D1C-9A22-3DB8FAE4CF9C}|5.6.Final.project.1\\5.6.Final.project.1.csproj|c:\\users\\ohago\\source\\repos\\skillfactory  homework\\5.6.final.project.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0434F4-2683-4D1C-9A22-3DB8FAE4CF9C}|5.6.Final.project.1\\5.6.Final.project.1.csproj|solutionrelative:5.6.final.project.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ohago\\source\\repos\\Skillfactory  homework\\5.6. Final project\\Program.cs",
-              "RelativeDocumentMoniker": "5.6. Final project\\Program.cs",
-              "ToolTip": "C:\\Users\\ohago\\source\\repos\\Skillfactory  homework\\5.6. Final project\\Program.cs",
-              "RelativeToolTip": "5.6. Final project\\Program.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAkwDEAAAA8AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ohago\\source\\repos\\Skillfactory  homework\\5.6.Final.project.1\\Program.cs",
+              "RelativeDocumentMoniker": "5.6.Final.project.1\\Program.cs",
+              "ToolTip": "C:\\Users\\ohago\\source\\repos\\Skillfactory  homework\\5.6.Final.project.1\\Program.cs",
+              "RelativeToolTip": "5.6.Final.project.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T05:56:33.385Z",
+              "WhenOpened": "2025-02-07T20:40:52.784Z",
               "EditorCaption": ""
             }
           ]

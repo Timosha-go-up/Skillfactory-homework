@@ -117,6 +117,7 @@ namespace _5._6.Final_project
             Console.Write("\n" + "Yours favorit colors \t" + anketa.NumberFavcolors + "\t");
             for (int i = 0; i < anketa.NumberFavcolors; i++) Console.Write(anketa.NamesColors[i] + " . ");
             Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
